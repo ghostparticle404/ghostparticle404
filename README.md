@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![GHOSTPARTICLE404](assets/ghostparticle404-banner.png)
@@ -416,4 +415,18 @@ Research · Education · Instructional Design · Curriculum Development · Techn
 ```text
 $ cat /etc/security-philosophy
 
-[+] Understand
+[+] Understand the system before changing it
+[+] Question assumptions and verify evidence
+[+] Identify the attack surface
+[+] Analyze the technical and human context
+[+] Distinguish facts from hypotheses
+[+] Evaluate risk and unintended consequences
+[+] Design practical, defensible controls
+[+] Preserve evidence and document methodology
+[+] Protect privacy, autonomy, and human rights
+[+] Build for resilience, not just compliance
+[+] Share knowledge and make security accessible
+[+] Never stop learning
+
+SECURITY IS A PROCESS, NOT A PRODUCT.
+```
