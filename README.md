@@ -1,4 +1,4 @@
-<div align="center">
+
 <div align="right">
   <a href="./README.md">
     <img src="https://img.shields.io/badge/English-9D4EDD?style=for-the-badge" alt="English">
@@ -7,6 +7,12 @@
     <img src="https://img.shields.io/badge/Español-00E5FF?style=for-the-badge&labelColor=151025" alt="Español">
   </a>
 </div>
+
+<div align="center">
+  <img src="assets/ghostparticle404-banner.png" alt="GHOSTPARTICLE404 Cybersecurity Banner" width="100%">
+</div>
+
+<div align="center">
 ![GHOSTPARTICLE404](assets/ghostparticle404-banner.png)
 
 # ⚡ GHOSTPARTICLE404
