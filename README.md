@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-![GHOSTPARTICLE404](assets/ghostparticle404-banner.png)
 
 # ⚡ GHOSTPARTICLE404
 
